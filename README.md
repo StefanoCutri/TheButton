@@ -5,4 +5,4 @@ npm start
 npm run test
 
 ##You can see the project live on:
-https://stefanocutri.github.io/TheButton/
+https://stefanocutri.github.io/the-button/
